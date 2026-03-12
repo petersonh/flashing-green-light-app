@@ -1,0 +1,5 @@
+{
+  "name": "Green Siren Flasher",
+  "description": "A simple screen flasher for volunteer forest fire fighters to signal presence.",
+  "requestFramePermissions": ["screen-wake-lock", "wake-lock"]
+}
